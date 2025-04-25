@@ -14,9 +14,6 @@ Note: This is not the main project folder. This is just a representation of what
 - [Changelog](#changelog)  
 - [Installation & Usage](#installation--usage)  
 - [Tech Stack](#tech-stack)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
